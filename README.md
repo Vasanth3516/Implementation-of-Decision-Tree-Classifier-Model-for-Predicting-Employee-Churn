@@ -64,14 +64,23 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ![ss1](https://user-images.githubusercontent.com/115924983/203999566-26fd458e-2671-4ab0-a75b-0f8c87bd2335.png)
+
 ![ss2](https://user-images.githubusercontent.com/115924983/203999587-bc804e18-b5ce-4245-a33e-b52941002fd0.png)
+
 ![ss3](https://user-images.githubusercontent.com/115924983/203999625-6a522fa5-a3c7-41d5-b7da-eb92013c8fae.png)
+
 ![ss4](https://user-images.githubusercontent.com/115924983/203999647-e0cb47f8-735e-4185-968b-6397ef410184.png)
+
 ![ss5](https://user-images.githubusercontent.com/115924983/203999665-a17900f5-12d1-4a46-bbb2-bb2f13623237.png)
+
 ![ss6](https://user-images.githubusercontent.com/115924983/203999678-67910e35-8c2c-4a3b-aaca-3b6be59f88f8.png)
+
 ![ss7](https://user-images.githubusercontent.com/115924983/203999693-0d39e0b6-785d-4bc9-ba31-cf8b51c719b6.png)
+
 ![ss8](https://user-images.githubusercontent.com/115924983/203999719-526ead30-243e-40ad-870a-8fef2d4bd832.png)
+
 ![ss9](https://user-images.githubusercontent.com/115924983/203999764-beebe4fa-14fa-4e14-8beb-2b22563ef697.png)
+
 ![ss10](https://user-images.githubusercontent.com/115924983/203999791-1b1872e7-6c1b-4788-b33e-cbefb357c754.png)
 
 
